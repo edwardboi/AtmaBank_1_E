@@ -1,0 +1,38 @@
+
+@media (max-width: 1000px){
+    .nav-item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .navbar .navbar-brand {
+        width: 40vw;
+    }
+
+    .navbar .navbar-toggler .navbar-toggler-icon {
+        width: 4vw;
+    }
+
+    #logbtn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: #243465;
+}
+
+.dropdown-item{
+    color: grey;
+}
+
+.dropdown-item:hover{
+    background-color: #2A407E;
+    color: white;
+}
