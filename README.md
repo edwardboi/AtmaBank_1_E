@@ -13,4 +13,16 @@ Designed and developed a responsive website for AtmaBank, featuring seamless tra
 </ul>
 
 ### User Interface
+![home](public/untukReadme/home.png)
+![login](public/untukReadme/login.png)
+![profile](public/untukReadme/profile.png)
+![tf1](public/untukReadme/tf1.png)
+![tf2](public/untukReadme/tf2.png)
+![loan](public/untukReadme/loan.png)
+![loanDtl](public/untukReadme/loanDtl.png)
+![history](public/untukReadme/history.png)
+
+### Admin Interface
+![admDash](public/untukReadme/admDash.png)
+![admUsr](public/untukReadme/admUsr.png)
 
