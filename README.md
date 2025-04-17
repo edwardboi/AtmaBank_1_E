@@ -4,6 +4,15 @@
 Designed and developed a responsive website for AtmaBank, featuring seamless transfer and loan functionalities. The platform includes tailored interfaces for Users and Admins, ensuring streamlined operations and an enhanced user experience.
 </p>
 
+### Technology Used :
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Laravel (Backend)</li>
+    <li>MySQl (Database)</li>
+</ul>
+
 ### Group Member :
 <ul>
     <li>Edwardy (220711676) - frontend & backend</li>
